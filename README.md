@@ -1,2 +1,9 @@
 # Readability
-Readability (Analyseur de niveau de lisibilité)Implémentation en C d'un algorithme de traitement de texte permettant de déterminer le niveau d'éducation requis pour comprendre un texte donné, en s'appuyant sur l'indice de Coleman-Liau.Fonctionnalités :Compte automatiquement le nombre de lettres, de mots et de phrases dans un texte saisi.Calcule le score basé sur la formule : $Index = 0.0588 \times L - 0.296 \times S - 15.8$.Classifie et affiche le niveau scolaire correspondant (ex. Grade 1 à Grade 16+ / Before Grade 1).
+Readability (Analyseur de niveau de lisibilité)Implémentation en C d'un algorithme de traitement de texte permettant de déterminer le niveau d'éducation requis pour comprendre un texte donné, en s'appuyant sur l'indice de Coleman-Liau.
+
+# Fonctionnalités :
+- Compte automatiquement le nombre de lettres, de mots et de phrases dans un texte saisi.
+
+- Calcule le score basé sur la formule : $Index = 0.0588 \times L - 0.296 \times S - 15.8$.
+
+- Classifie et affiche le niveau scolaire correspondant (ex. Grade 1 à Grade 16+ / Before Grade 1).
